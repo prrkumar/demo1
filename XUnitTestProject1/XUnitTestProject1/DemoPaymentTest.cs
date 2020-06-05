@@ -27,7 +27,7 @@ namespace XUnitTestProject1
             //arrange
             string expectedresult = "Generate a duplicate packing slip for the royalty department!";
 
-            IProduct product = new PhysicalProduct();
+            IProduct product = new Book();
 
             // act 
             var rtntext = product.ProcessPayment();
