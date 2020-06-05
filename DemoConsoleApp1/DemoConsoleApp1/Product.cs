@@ -23,7 +23,7 @@ namespace DemoConsoleApp1
         public string ProcessPayment()
         {
             //throw new NotImplementedException("Not Implemented");
-            return ("Generate a packing slip for shipping!");
+            return ("Generate a duplicate packing slip for the royalty department!");
         }
     }
 
