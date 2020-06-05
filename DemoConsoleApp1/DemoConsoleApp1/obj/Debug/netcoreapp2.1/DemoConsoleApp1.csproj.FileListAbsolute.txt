@@ -1,0 +1,10 @@
+C:\Users\RajeshkumarRamachand\source\repos\DemoConsoleApp1\DemoConsoleApp1\bin\Debug\netcoreapp2.1\DemoConsoleApp1.deps.json
+C:\Users\RajeshkumarRamachand\source\repos\DemoConsoleApp1\DemoConsoleApp1\bin\Debug\netcoreapp2.1\DemoConsoleApp1.runtimeconfig.json
+C:\Users\RajeshkumarRamachand\source\repos\DemoConsoleApp1\DemoConsoleApp1\bin\Debug\netcoreapp2.1\DemoConsoleApp1.runtimeconfig.dev.json
+C:\Users\RajeshkumarRamachand\source\repos\DemoConsoleApp1\DemoConsoleApp1\bin\Debug\netcoreapp2.1\DemoConsoleApp1.dll
+C:\Users\RajeshkumarRamachand\source\repos\DemoConsoleApp1\DemoConsoleApp1\bin\Debug\netcoreapp2.1\DemoConsoleApp1.pdb
+C:\Users\RajeshkumarRamachand\source\repos\DemoConsoleApp1\DemoConsoleApp1\obj\Debug\netcoreapp2.1\DemoConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\RajeshkumarRamachand\source\repos\DemoConsoleApp1\DemoConsoleApp1\obj\Debug\netcoreapp2.1\DemoConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\RajeshkumarRamachand\source\repos\DemoConsoleApp1\DemoConsoleApp1\obj\Debug\netcoreapp2.1\DemoConsoleApp1.AssemblyInfo.cs
+C:\Users\RajeshkumarRamachand\source\repos\DemoConsoleApp1\DemoConsoleApp1\obj\Debug\netcoreapp2.1\DemoConsoleApp1.dll
+C:\Users\RajeshkumarRamachand\source\repos\DemoConsoleApp1\DemoConsoleApp1\obj\Debug\netcoreapp2.1\DemoConsoleApp1.pdb
